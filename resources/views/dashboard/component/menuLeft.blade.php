@@ -1,6 +1,6 @@
 <aside class="relative bg-gray-900 h-screen w-64 hidden sm:block shadow-xl">
     <div class="p-6">
-        <a href="index.html" class="text-white text-3xl font-semibold uppercase hover:text-gray-300">Teacher</a>
+        <a href="/dashboard" class="text-white text-3xl font-semibold uppercase hover:text-gray-300">Teacher</a>
 
     </div>
     <nav class="text-white text-base font-semibold pt-3">
